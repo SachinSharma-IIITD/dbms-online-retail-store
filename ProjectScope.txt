@@ -4,7 +4,6 @@ Objective: To develop an online retail store that allows customers to browse and
 
 Scope:
 
-    Website design and development, including the creation of a visually appealing and easy-to-use interface for browsing and purchasing products
     Product catalog management, including the ability to add, edit, and delete products as well as upload product images
     Shopping cart and checkout functionality, allowing customers to add items to their cart and proceed to checkout to complete their purchase
     Secure payment gateway integration, supporting multiple payment methods such as credit card, debit card, and e-wallets
@@ -13,6 +12,7 @@ Scope:
     Inventory management, tracking the availability of products in real-time and updating the website accordingly
     Customer service, including a contact form for customers to submit inquiries and complaints, as well as a FAQ page
     Search and filtering functionality, allowing customers to easily find products they're looking for
-    Mobile responsiveness, ensuring the website is easily usable on mobile devices
+    An order confirmation and shipping notification email will be sent to customers upon successful completion of their order.
+    A back-end admin panel will allow store staff to manage products, orders, customers, and other website content.
 
 The scope of the project is limited to the above features, and any additional requirements will be evaluated and considered for inclusion in future phases of development.
